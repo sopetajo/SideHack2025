@@ -22,3 +22,4 @@ Receiving objects: 100% (5/5), done.
 Uh-oh, this is an RCE!
 ```
 
+The executed payload is [here](https://github.com/liamg/CVE-2025-48384-submodule/blob/main/post-checkout).
