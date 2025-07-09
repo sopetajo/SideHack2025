@@ -4,7 +4,7 @@ See [CVE-2025-48384](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 
 To run:
 ```
-git -c protocol.file.allow=always clone --recurse-submodules CVE-2025-48384
+git -c protocol.file.allow=always clone --recurse-submodules git@github.com:liamg/CVE-2025-48384.git
 ```
 
 Example output:
